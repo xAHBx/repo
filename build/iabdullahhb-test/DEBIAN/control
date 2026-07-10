@@ -1,7 +1,0 @@
-Package: com.iabdullahhb.test
-Name: iabdullahhb Test
-Version: 1.0
-Architecture: iphoneos-arm64
-Description: Test package for iabdullahhb repo
-Maintainer: xAHBx
-Section: Tweaks
